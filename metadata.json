@@ -1,0 +1,6 @@
+{
+  "name": "Clínica Veterinária Pet Family",
+  "description": "Landing page institucional premium e luxuosa da Clínica Veterinária Pet Family em Santa Maria - RS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
